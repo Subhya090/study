@@ -1,1 +1,4 @@
 https://organic-garbanzo-9v47gpr6pxj37qwq-6080.app.github.dev/
+
+
+websockify -D --web=/usr/share/novnc/ --cert=/home/ubuntu/novnc.pem 6080 localhost:5901
